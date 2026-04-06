@@ -13,3 +13,5 @@ Completed a Debugging Exercise — identifying, fixing, and optimising buggy Pyt
 
 # Built a DNA Analysis and Phylogenetic Tree Construction program for analysing DNA sequences and constructing phylogenetic trees
 # Developed a Cancer-Associated Skeletal Muscle Wasting Analysis pipeline using Machine Learning to analyse clinical data related to cancer cachexia
+# Tools & Techniques
+Python · DNA Sequence Analysis · GC Content Calculation · Debugging & Optimisation · Phylogenetic Tree Construction · Machine Learning · Biopython
