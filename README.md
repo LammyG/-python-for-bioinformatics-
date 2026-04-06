@@ -2,7 +2,7 @@
 # Python programming coursework applied to bioinformatics problems, covering DNA sequence analysis, debugging, advanced analysis, and machine learning.-
 
 # Overview
-# This module involved building and testing Python programs across two main tasks — foundational Python applied to bioinformatics problems, and advanced Python for genomic and clinical data analysis. Each task included program design, execution, testing, debugging, and optimisation.
+# This module involved building and testing Python programs across two main tasks: foundational Python applied to bioinformatics problems, and advanced Python for genomic and clinical data analysis. Each task included program design, execution, testing, debugging, and optimisation.
 # What Was Done
 # Task 1 - Basics of Python:
 
